@@ -173,11 +173,6 @@ On the login screen, click **"Create Account"** to register, then sign in.
 The full UI/UX design prototype is available on Figma:
 👉 [View IVMS Design on Figma](https://www.figma.com/design/NUkfCQK2WVyfld3b4s6wB8/logoof-city-of-kigali?node-id=29-136&t=2ITHPlDxpJ5rKZE9-1)
 
-## 📸 Screenshots
-
-> Dashboard with live charts, department capacity table, and key metrics.
-> Settings page with profile editing and password management.
-
 ---
 
 ## 👨‍💻 Developer
